@@ -1,0 +1,20 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de banco de dados (Se usar um banco de dados local, como SQLite)
+*.db
+
+# Arquivos de configuração de IDEs (exemplo para VSCode)
+.vscode/
+
+# Arquivos de dependências Python
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Arquivos de backup
+*.bak
+*.swp
